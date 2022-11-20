@@ -10,7 +10,7 @@ I will keep this list updated, so if something isn't in your price range, or jus
  - Alternative [Remarkable 2](https://remarkable.com/store/remarkable-2) *~$600*
  - Either is good, the remarkable 2 is easier to get and has a larger screen. I don't think the Nova Air2 is out yet.
  - The big point is needing the marker or pen, I plan to annotate books and take notes etc.
-2. [Creality Ender 3 V2](https://www.amazon.com.au/Creality-Motherboard-Meanwell-Carborundum-220x220x250 mm/dp/B07FFTHMMN) - *~$350*
+2. [Creality Ender 3 V2](https://www.amazon.com.au/Creality-Motherboard-Meanwell-Carborundum-220x220x250mm/dp/B07FFTHMMN) - *~$350*
  - My old 3D printer broke so this is a good one to grab. 
 3. [Parabolic Grid Antenna](https://www.access12voltwarehouse.com.au/products/19dbi-grid-parabolic-antenna-for-2-3ghz-2-4ghz-2-5ghz) *~$80-$150*
  - This will be used to pull images off satellites. This the linked one is one that I found in stock. You can get it cheaper, but they are on back order.
